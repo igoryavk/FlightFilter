@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gridnine.testing.Filter_LandingTimeMoreTwoHoursTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-11T17:29:25" hostname="DESKTOP-CSO9Q3O" time="0.089">
+  <properties/>
+  <testcase name="getFilteredFlights()" classname="com.gridnine.testing.Filter_LandingTimeMoreTwoHoursTest" time="0.089"/>
+  <system-out><![CDATA[4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
